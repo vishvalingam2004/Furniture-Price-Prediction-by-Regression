@@ -1,7 +1,7 @@
 # FURNITURE-PRICE PREDICTION BY REGRESSION
 Prediction model for furnitures prices.
 # ABOUT DATASET
-here this repo contains a ML model made for fututre prediction of furnitures prices.This dataset contains 2000 rows of listings for data analyst and machine learning positions
+Here this repo contains a ML model made for fututre prediction of furnitures prices.This dataset contains 2000 rows of listings for data analyst and machine learning positions
 The dataset contains detailed information about various types of furniture and information about furniture prices sold
 on Jumia.com
 The aim is to create this dataset so that all the data scientists out there could easily use this in their projects.
